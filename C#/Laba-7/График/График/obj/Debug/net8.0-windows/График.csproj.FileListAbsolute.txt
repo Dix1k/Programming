@@ -1,0 +1,32 @@
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\График\График\bin\Debug\net8.0-windows\График.exe
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\График\График\bin\Debug\net8.0-windows\График.deps.json
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\График\График\bin\Debug\net8.0-windows\График.runtimeconfig.json
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\График\График\bin\Debug\net8.0-windows\График.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\График\График\bin\Debug\net8.0-windows\График.pdb
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\График\График\obj\Debug\net8.0-windows\График.Form1.resources
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\График\График\obj\Debug\net8.0-windows\График.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\График\График\obj\Debug\net8.0-windows\График.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\График\График\obj\Debug\net8.0-windows\График.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\График\График\obj\Debug\net8.0-windows\График.AssemblyInfo.cs
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\График\График\obj\Debug\net8.0-windows\График.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\График\График\obj\Debug\net8.0-windows\График.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\График\График\obj\Debug\net8.0-windows\refint\График.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\График\График\obj\Debug\net8.0-windows\График.pdb
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\График\График\obj\Debug\net8.0-windows\График.genruntimeconfig.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\График\График\obj\Debug\net8.0-windows\ref\График.dll
+C:\Users\dix1k\Desktop\лаба7\лаба7\График\График\bin\Debug\net8.0-windows\График.exe
+C:\Users\dix1k\Desktop\лаба7\лаба7\График\График\bin\Debug\net8.0-windows\График.deps.json
+C:\Users\dix1k\Desktop\лаба7\лаба7\График\График\bin\Debug\net8.0-windows\График.runtimeconfig.json
+C:\Users\dix1k\Desktop\лаба7\лаба7\График\График\bin\Debug\net8.0-windows\График.dll
+C:\Users\dix1k\Desktop\лаба7\лаба7\График\График\bin\Debug\net8.0-windows\График.pdb
+C:\Users\dix1k\Desktop\лаба7\лаба7\График\График\obj\Debug\net8.0-windows\График.Form1.resources
+C:\Users\dix1k\Desktop\лаба7\лаба7\График\График\obj\Debug\net8.0-windows\График.csproj.GenerateResource.cache
+C:\Users\dix1k\Desktop\лаба7\лаба7\График\График\obj\Debug\net8.0-windows\График.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dix1k\Desktop\лаба7\лаба7\График\График\obj\Debug\net8.0-windows\График.AssemblyInfoInputs.cache
+C:\Users\dix1k\Desktop\лаба7\лаба7\График\График\obj\Debug\net8.0-windows\График.AssemblyInfo.cs
+C:\Users\dix1k\Desktop\лаба7\лаба7\График\График\obj\Debug\net8.0-windows\График.csproj.CoreCompileInputs.cache
+C:\Users\dix1k\Desktop\лаба7\лаба7\График\График\obj\Debug\net8.0-windows\График.dll
+C:\Users\dix1k\Desktop\лаба7\лаба7\График\График\obj\Debug\net8.0-windows\refint\График.dll
+C:\Users\dix1k\Desktop\лаба7\лаба7\График\График\obj\Debug\net8.0-windows\График.pdb
+C:\Users\dix1k\Desktop\лаба7\лаба7\График\График\obj\Debug\net8.0-windows\График.genruntimeconfig.cache
+C:\Users\dix1k\Desktop\лаба7\лаба7\График\График\obj\Debug\net8.0-windows\ref\График.dll

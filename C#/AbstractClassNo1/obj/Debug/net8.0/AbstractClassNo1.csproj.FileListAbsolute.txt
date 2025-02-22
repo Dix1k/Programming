@@ -1,0 +1,14 @@
+D:\Programming\VisualStudio\C#\AbstractClassNo1\bin\Debug\net8.0\AbstractClassNo1.exe
+D:\Programming\VisualStudio\C#\AbstractClassNo1\bin\Debug\net8.0\AbstractClassNo1.deps.json
+D:\Programming\VisualStudio\C#\AbstractClassNo1\bin\Debug\net8.0\AbstractClassNo1.runtimeconfig.json
+D:\Programming\VisualStudio\C#\AbstractClassNo1\bin\Debug\net8.0\AbstractClassNo1.dll
+D:\Programming\VisualStudio\C#\AbstractClassNo1\bin\Debug\net8.0\AbstractClassNo1.pdb
+D:\Programming\VisualStudio\C#\AbstractClassNo1\obj\Debug\net8.0\AbstractClassNo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\VisualStudio\C#\AbstractClassNo1\obj\Debug\net8.0\AbstractClassNo1.AssemblyInfoInputs.cache
+D:\Programming\VisualStudio\C#\AbstractClassNo1\obj\Debug\net8.0\AbstractClassNo1.AssemblyInfo.cs
+D:\Programming\VisualStudio\C#\AbstractClassNo1\obj\Debug\net8.0\AbstractClassNo1.csproj.CoreCompileInputs.cache
+D:\Programming\VisualStudio\C#\AbstractClassNo1\obj\Debug\net8.0\AbstractClassNo1.dll
+D:\Programming\VisualStudio\C#\AbstractClassNo1\obj\Debug\net8.0\refint\AbstractClassNo1.dll
+D:\Programming\VisualStudio\C#\AbstractClassNo1\obj\Debug\net8.0\AbstractClassNo1.pdb
+D:\Programming\VisualStudio\C#\AbstractClassNo1\obj\Debug\net8.0\AbstractClassNo1.genruntimeconfig.cache
+D:\Programming\VisualStudio\C#\AbstractClassNo1\obj\Debug\net8.0\ref\AbstractClassNo1.dll

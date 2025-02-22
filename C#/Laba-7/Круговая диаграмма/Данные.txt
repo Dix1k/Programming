@@ -1,0 +1,6 @@
+54 Mozilla Firefox
+33 Internet Explorer
+20 Opera
+12 Netscape
+5 Avant Browser
+6 Другие

@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Отрисовка линий и кривых\Отрисовка линий и кривых\bin\Debug\net8.0-windows\Отрисовка линий и кривых.exe
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Отрисовка линий и кривых\Отрисовка линий и кривых\bin\Debug\net8.0-windows\Отрисовка линий и кривых.deps.json
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Отрисовка линий и кривых\Отрисовка линий и кривых\bin\Debug\net8.0-windows\Отрисовка линий и кривых.runtimeconfig.json
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Отрисовка линий и кривых\Отрисовка линий и кривых\bin\Debug\net8.0-windows\Отрисовка линий и кривых.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Отрисовка линий и кривых\Отрисовка линий и кривых\bin\Debug\net8.0-windows\Отрисовка линий и кривых.pdb
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Отрисовка линий и кривых\Отрисовка линий и кривых\obj\Debug\net8.0-windows\Отрисовка_линий_и_кривых.Form1.resources
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Отрисовка линий и кривых\Отрисовка линий и кривых\obj\Debug\net8.0-windows\Отрисовка линий и кривых.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Отрисовка линий и кривых\Отрисовка линий и кривых\obj\Debug\net8.0-windows\Отрисовка линий и кривых.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Отрисовка линий и кривых\Отрисовка линий и кривых\obj\Debug\net8.0-windows\Отрисовка линий и кривых.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Отрисовка линий и кривых\Отрисовка линий и кривых\obj\Debug\net8.0-windows\Отрисовка линий и кривых.AssemblyInfo.cs
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Отрисовка линий и кривых\Отрисовка линий и кривых\obj\Debug\net8.0-windows\Отрисовка линий и кривых.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Отрисовка линий и кривых\Отрисовка линий и кривых\obj\Debug\net8.0-windows\Отрисовка линий и кривых.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Отрисовка линий и кривых\Отрисовка линий и кривых\obj\Debug\net8.0-windows\refint\Отрисовка линий и кривых.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Отрисовка линий и кривых\Отрисовка линий и кривых\obj\Debug\net8.0-windows\Отрисовка линий и кривых.pdb
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Отрисовка линий и кривых\Отрисовка линий и кривых\obj\Debug\net8.0-windows\Отрисовка линий и кривых.genruntimeconfig.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Отрисовка линий и кривых\Отрисовка линий и кривых\obj\Debug\net8.0-windows\ref\Отрисовка линий и кривых.dll

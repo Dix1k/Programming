@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\VisualStudio\\C#\\AbstractClassNo3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{304A8502-E88F-480E-9730-29E46068C9AD}|AbstractClassNo3.csproj|d:\\programming\\visualstudio\\c#\\abstractclassno3\\mynewcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304A8502-E88F-480E-9730-29E46068C9AD}|AbstractClassNo3.csproj|solutionrelative:mynewcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304A8502-E88F-480E-9730-29E46068C9AD}|AbstractClassNo3.csproj|d:\\programming\\visualstudio\\c#\\abstractclassno3\\journalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304A8502-E88F-480E-9730-29E46068C9AD}|AbstractClassNo3.csproj|solutionrelative:journalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304A8502-E88F-480E-9730-29E46068C9AD}|AbstractClassNo3.csproj|d:\\programming\\visualstudio\\c#\\abstractclassno3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304A8502-E88F-480E-9730-29E46068C9AD}|AbstractClassNo3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304A8502-E88F-480E-9730-29E46068C9AD}|AbstractClassNo3.csproj|d:\\programming\\visualstudio\\c#\\abstractclassno3\\collectionhandlereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304A8502-E88F-480E-9730-29E46068C9AD}|AbstractClassNo3.csproj|solutionrelative:collectionhandlereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304A8502-E88F-480E-9730-29E46068C9AD}|AbstractClassNo3.csproj|d:\\programming\\visualstudio\\c#\\abstractclassno3\\collectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304A8502-E88F-480E-9730-29E46068C9AD}|AbstractClassNo3.csproj|solutionrelative:collectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyNewCollection.cs",
+              "DocumentMoniker": "D:\\Programming\\VisualStudio\\C#\\AbstractClassNo3\\MyNewCollection.cs",
+              "RelativeDocumentMoniker": "MyNewCollection.cs",
+              "ToolTip": "D:\\Programming\\VisualStudio\\C#\\AbstractClassNo3\\MyNewCollection.cs",
+              "RelativeToolTip": "MyNewCollection.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:21:35.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JournalEntry.cs",
+              "DocumentMoniker": "D:\\Programming\\VisualStudio\\C#\\AbstractClassNo3\\JournalEntry.cs",
+              "RelativeDocumentMoniker": "JournalEntry.cs",
+              "ToolTip": "D:\\Programming\\VisualStudio\\C#\\AbstractClassNo3\\JournalEntry.cs",
+              "RelativeToolTip": "JournalEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:21:32.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CollectionHandlerEventArgs.cs",
+              "DocumentMoniker": "D:\\Programming\\VisualStudio\\C#\\AbstractClassNo3\\CollectionHandlerEventArgs.cs",
+              "RelativeDocumentMoniker": "CollectionHandlerEventArgs.cs",
+              "ToolTip": "D:\\Programming\\VisualStudio\\C#\\AbstractClassNo3\\CollectionHandlerEventArgs.cs",
+              "RelativeToolTip": "CollectionHandlerEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:21:30.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CollectionHandler.cs",
+              "DocumentMoniker": "D:\\Programming\\VisualStudio\\C#\\AbstractClassNo3\\CollectionHandler.cs",
+              "RelativeDocumentMoniker": "CollectionHandler.cs",
+              "ToolTip": "D:\\Programming\\VisualStudio\\C#\\AbstractClassNo3\\CollectionHandler.cs",
+              "RelativeToolTip": "CollectionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:21:29.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\VisualStudio\\C#\\AbstractClassNo3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\VisualStudio\\C#\\AbstractClassNo3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:45:22.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

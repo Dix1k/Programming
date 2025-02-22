@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dix1k\\Desktop\\лаба7\\лаба7\\Круговая диаграмма\\Круговая диаграмма\\Круговая диаграмма.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dix1k\\Desktop\\лаба7\\лаба7\\Круговая диаграмма\\Круговая диаграмма\\Круговая диаграмма.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dix1k\\Desktop\\лаба7\\лаба7\\Круговая диаграмма\\Круговая диаграмма\\Круговая диаграмма.csproj",
+        "projectName": "Круговая диаграмма",
+        "projectPath": "C:\\Users\\dix1k\\Desktop\\лаба7\\лаба7\\Круговая диаграмма\\Круговая диаграмма\\Круговая диаграмма.csproj",
+        "packagesPath": "C:\\Users\\dix1k\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dix1k\\Desktop\\лаба7\\лаба7\\Круговая диаграмма\\Круговая диаграмма\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dix1k\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

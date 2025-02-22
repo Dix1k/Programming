@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Полёт в облаках/1.0.0": {
+        "runtime": {
+          "Полёт в облаках.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Полёт в облаках/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

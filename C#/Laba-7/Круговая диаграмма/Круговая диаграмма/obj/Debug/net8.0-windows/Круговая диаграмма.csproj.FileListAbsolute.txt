@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Круговая диаграмма\Круговая диаграмма\bin\Debug\net8.0-windows\Круговая диаграмма.exe
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Круговая диаграмма\Круговая диаграмма\bin\Debug\net8.0-windows\Круговая диаграмма.deps.json
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Круговая диаграмма\Круговая диаграмма\bin\Debug\net8.0-windows\Круговая диаграмма.runtimeconfig.json
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Круговая диаграмма\Круговая диаграмма\bin\Debug\net8.0-windows\Круговая диаграмма.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Круговая диаграмма\Круговая диаграмма\bin\Debug\net8.0-windows\Круговая диаграмма.pdb
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Круговая диаграмма\Круговая диаграмма\obj\Debug\net8.0-windows\Круговая_диаграмма.Form1.resources
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Круговая диаграмма\Круговая диаграмма\obj\Debug\net8.0-windows\Круговая диаграмма.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Круговая диаграмма\Круговая диаграмма\obj\Debug\net8.0-windows\Круговая диаграмма.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Круговая диаграмма\Круговая диаграмма\obj\Debug\net8.0-windows\Круговая диаграмма.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Круговая диаграмма\Круговая диаграмма\obj\Debug\net8.0-windows\Круговая диаграмма.AssemblyInfo.cs
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Круговая диаграмма\Круговая диаграмма\obj\Debug\net8.0-windows\Круговая диаграмма.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Круговая диаграмма\Круговая диаграмма\obj\Debug\net8.0-windows\Круговая диаграмма.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Круговая диаграмма\Круговая диаграмма\obj\Debug\net8.0-windows\refint\Круговая диаграмма.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Круговая диаграмма\Круговая диаграмма\obj\Debug\net8.0-windows\Круговая диаграмма.pdb
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Круговая диаграмма\Круговая диаграмма\obj\Debug\net8.0-windows\Круговая диаграмма.genruntimeconfig.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Круговая диаграмма\Круговая диаграмма\obj\Debug\net8.0-windows\ref\Круговая диаграмма.dll

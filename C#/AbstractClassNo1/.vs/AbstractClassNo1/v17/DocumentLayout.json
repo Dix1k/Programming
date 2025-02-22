@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\VisualStudio\\C#\\AbstractClassNo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1D0953-8FA4-45D6-8C7A-E39DE011EC9B}|AbstractClassNo1.csproj|d:\\programming\\visualstudio\\c#\\abstractclassno1\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1D0953-8FA4-45D6-8C7A-E39DE011EC9B}|AbstractClassNo1.csproj|solutionrelative:hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1D0953-8FA4-45D6-8C7A-E39DE011EC9B}|AbstractClassNo1.csproj|d:\\programming\\visualstudio\\c#\\abstractclassno1\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1D0953-8FA4-45D6-8C7A-E39DE011EC9B}|AbstractClassNo1.csproj|solutionrelative:functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "D:\\Programming\\VisualStudio\\C#\\AbstractClassNo1\\Functions.cs",
+              "RelativeDocumentMoniker": "Functions.cs",
+              "ToolTip": "D:\\Programming\\VisualStudio\\C#\\AbstractClassNo1\\Functions.cs",
+              "RelativeToolTip": "Functions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:16:30.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hash.cs",
+              "DocumentMoniker": "D:\\Programming\\VisualStudio\\C#\\AbstractClassNo1\\Hash.cs",
+              "RelativeDocumentMoniker": "Hash.cs",
+              "ToolTip": "D:\\Programming\\VisualStudio\\C#\\AbstractClassNo1\\Hash.cs",
+              "RelativeToolTip": "Hash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:46:47.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

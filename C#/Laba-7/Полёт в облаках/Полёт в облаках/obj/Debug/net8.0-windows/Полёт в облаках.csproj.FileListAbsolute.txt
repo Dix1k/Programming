@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Полёт в облаках\Полёт в облаках\bin\Debug\net8.0-windows\Полёт в облаках.exe
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Полёт в облаках\Полёт в облаках\bin\Debug\net8.0-windows\Полёт в облаках.deps.json
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Полёт в облаках\Полёт в облаках\bin\Debug\net8.0-windows\Полёт в облаках.runtimeconfig.json
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Полёт в облаках\Полёт в облаках\bin\Debug\net8.0-windows\Полёт в облаках.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Полёт в облаках\Полёт в облаках\bin\Debug\net8.0-windows\Полёт в облаках.pdb
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Полёт в облаках\Полёт в облаках\obj\Debug\net8.0-windows\Полёт_в_облаках.Form1.resources
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Полёт в облаках\Полёт в облаках\obj\Debug\net8.0-windows\Полёт в облаках.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Полёт в облаках\Полёт в облаках\obj\Debug\net8.0-windows\Полёт в облаках.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Полёт в облаках\Полёт в облаках\obj\Debug\net8.0-windows\Полёт в облаках.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Полёт в облаках\Полёт в облаках\obj\Debug\net8.0-windows\Полёт в облаках.AssemblyInfo.cs
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Полёт в облаках\Полёт в облаках\obj\Debug\net8.0-windows\Полёт в облаках.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Полёт в облаках\Полёт в облаках\obj\Debug\net8.0-windows\Полёт в облаках.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Полёт в облаках\Полёт в облаках\obj\Debug\net8.0-windows\refint\Полёт в облаках.dll
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Полёт в облаках\Полёт в облаках\obj\Debug\net8.0-windows\Полёт в облаках.pdb
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Полёт в облаках\Полёт в облаках\obj\Debug\net8.0-windows\Полёт в облаках.genruntimeconfig.cache
+C:\Users\USER\Desktop\вуз\Visual Studio\лаба7\Полёт в облаках\Полёт в облаках\obj\Debug\net8.0-windows\ref\Полёт в облаках.dll

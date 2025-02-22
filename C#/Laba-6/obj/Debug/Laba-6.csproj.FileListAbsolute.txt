@@ -1,0 +1,16 @@
+D:\Programming\VisualStudio\C#\Laba-6\bin\Debug\Laba-6.exe.config
+D:\Programming\VisualStudio\C#\Laba-6\bin\Debug\Laba-6.exe
+D:\Programming\VisualStudio\C#\Laba-6\bin\Debug\Laba-6.pdb
+D:\Programming\VisualStudio\C#\Laba-6\obj\Debug\Laba-6.csproj.AssemblyReference.cache
+D:\Programming\VisualStudio\C#\Laba-6\obj\Debug\Laba_6.Form1.resources
+D:\Programming\VisualStudio\C#\Laba-6\obj\Debug\Laba_6.Form2.resources
+D:\Programming\VisualStudio\C#\Laba-6\obj\Debug\Laba_6.Main.resources
+D:\Programming\VisualStudio\C#\Laba-6\obj\Debug\Laba_6.Properties.Resources.resources
+D:\Programming\VisualStudio\C#\Laba-6\obj\Debug\Laba-6.csproj.GenerateResource.cache
+D:\Programming\VisualStudio\C#\Laba-6\obj\Debug\Laba-6.csproj.CoreCompileInputs.cache
+D:\Programming\VisualStudio\C#\Laba-6\obj\Debug\Laba-6.exe
+D:\Programming\VisualStudio\C#\Laba-6\obj\Debug\Laba-6.pdb
+D:\Programming\VisualStudio\C#\Laba-6\obj\Debug\Laba_6.Form3.resources
+D:\Programming\VisualStudio\C#\Laba-6\obj\Debug\Laba_6.Form4.resources
+D:\Programming\VisualStudio\C#\Laba-6\obj\Debug\Laba_6.Form5.resources
+D:\Programming\VisualStudio\C#\Laba-6\obj\Debug\Laba_6.Form6.resources
